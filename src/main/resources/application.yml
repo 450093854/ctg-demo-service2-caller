@@ -1,2 +1,8 @@
 server:
   port: 8080
+
+helloservice:
+  url: http://localhost:8081/hello
+
+byeservice:
+  url: http://localhost:8082/bye

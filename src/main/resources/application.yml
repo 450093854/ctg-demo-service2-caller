@@ -2,7 +2,7 @@ server:
   port: 8080
 
 helloservice:
-  url: http://localhost:8081/hello
+  url: http://bp-hello:8081/hello
 
 byeservice:
-  url: http://localhost:8082/bye
+  url: http://bp-bye:8082/bye
